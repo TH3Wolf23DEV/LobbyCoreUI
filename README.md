@@ -1,7 +1,7 @@
 # LobbyCore
-LobbyCore UI plugin 1.7
+WolfGamesCore UI plugin V1.0
 
-## My Helper Discord Server | <a href="https://discord.gg/dUfySJ2"><img src="https://discordapp.com/api/guilds/402639859535052811/embed.png" alt="Discord server"/></a> |
+## My Helper Discord Server | <a href="https://discord.gg/hgMgmHP"><img src="https://discordapp.com/api/guilds/402639859535052811/embed.png" alt="Discord server"/></a> |
 
 - Inventory Items
 - [x] Player Info " Please use ProfileUI plugin ( https://github.com/Infernus101/ProfileUI ) "
